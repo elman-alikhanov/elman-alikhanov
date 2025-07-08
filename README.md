@@ -7,14 +7,10 @@
 
 ## 📬 Contact & Socials:
 <div align="left">
-  <a href="https://www.linkedin.com/in/el-man-utd/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="40" alt="linledin"  />&nbsp;
-  <img width="12" /></a>
-  <a href="https://instagram.com/el_man_utd" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="instagram"  />&nbsp;
-  <img width="12" /></a>
-  <a href="https://t.me/el_man_utd" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" alt="telegram"  />&nbsp;
-  <img width="12" /></a>
-  <a href="mailto:elman.alihanov@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail"  />&nbsp;
-  <img width="12" /></a>
+  <a href="https://www.linkedin.com/in/el-man-utd/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="40" alt="linledin"/><img width="12" /></a>&nbsp;
+  <a href="https://instagram.com/el_man_utd" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="instagram"/><img width="12" /></a>&nbsp;
+  <a href="https://t.me/el_man_utd" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" alt="telegram"/><img width="12" /></a>&nbsp;
+  <a href="mailto:elman.alihanov@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail"/><img width="12" /></a>&nbsp;
 </div>
 
 <br/><br/>
